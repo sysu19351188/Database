@@ -1,0 +1,33 @@
+2018级选修C语言且成绩小于60分的学生信息如下：
+#id       name      sex     birthday  school_year  birthplace
+10908  jianfa    Male    1995/7/2  2017         hunan
+#course                              credits score
+C Programming Language  3        56
+Advanced math                   4        80
+College English                    3.5     80
+Control Theory                    2        85
+Python                                 2        96
+
+#id       name       sex       birthday  school_year  birthplace
+10914  dahong    Male    1993/2/3  2018         guangdong
+#course                              credits score
+C Programming Language  3        59
+Advanced math                   4        70
+College English                    3.5     79
+Control Theory                    2        87
+Python                                 2        69
+
+
+课程平均分大于80的学生信息如下：
+#id       name      sex        birthday  school_year  birthplace
+10919  xiaomi    Female  1993/2/5  2016         beijing
+
+#id       name      sex      birthday  school_year  birthplace
+10921  dabin     Male    1992/2/6  2015         hainan
+
+id:10905        未修满20学分
+id:10908        未修满20学分
+id:10914        未修满20学分
+id:10917        未修满20学分
+id:10919        未修满20学分
+id:10921        未修满20学分
